@@ -1,5 +1,12 @@
 [//]: # (Don't use <tags>)
 
+## v1.12.12
+
+> `2026-04-18`
+
+### 🐞 Bug Fixes
+- Config panel multilingual validation fix #158
+
 ## v1.12.11
 
 > `2026-02-23`
