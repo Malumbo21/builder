@@ -3076,7 +3076,9 @@ export default function () {
 
         const handleResizeMultiDragMouseUp = (e) => {
           focused.value = false
-          nextElement$.value.container.focused = false
+          if (nextElement$.value) {
+            nextElement$.value.container.focused = false
+          }
         }
 
         const handleResizeMultiDragStart = (e) => {

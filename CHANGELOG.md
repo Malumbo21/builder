@@ -1,5 +1,17 @@
 [//]: # (Don't use <tags>)
 
+## v1.12.13
+
+> `2026-06-16`
+
+### 🎉 Feature
+- Added vueform global to all settings panels
+
+### 🐞 Bug Fixes
+- Missing expr path for array elements fix #162
+- Escaping single quotes in items prop #160
+- Moving before/after rows should only reset columns if it would shift the row after
+
 ## v1.12.12
 
 > `2026-04-18`
