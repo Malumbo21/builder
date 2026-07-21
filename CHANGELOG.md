@@ -1,5 +1,12 @@
 [//]: # (Don't use <tags>)
 
+## v1.12.15
+
+> `2026-07-21`
+
+### 🎉 Feature
+- Ability to disable google fonts import in scss #168
+
 ## v1.12.14
 
 > `2026-06-22`

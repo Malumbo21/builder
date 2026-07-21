@@ -1,4 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+@use 'vars' as *;
+
+@if $vfb-import-google-font {
+  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;600;700&display=swap');
+}
 
 :not(pre) > code.vfb-inline-code {
   font-size: 0.8em;

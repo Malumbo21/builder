@@ -1,4 +1,4 @@
-@use './index.scss';
+@forward './index.scss' with ($vfb-import-google-font: true !default);
 
 @tailwind base;
 @tailwind components;

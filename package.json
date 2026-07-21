@@ -1,7 +1,7 @@
 {
   "private": false,
   "name": "@vueform/builder",
-  "version": "1.12.14",
+  "version": "1.12.15",
   "description": "Vueform Builder development build.",
   "homepage": "https://vueform.com",
   "license": "SEE LICENSE IN LICENSE.txt",

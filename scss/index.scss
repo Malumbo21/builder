@@ -1,5 +1,5 @@
 // Misc
-@use 'vars';
+@forward 'vars' with ($vfb-import-google-font: true !default);
 @use 'code';
 @use 'global';
 @use 'tools';
